@@ -1,0 +1,44 @@
+└── Dask
+    ├── dask_analysis.py
+    ├── settings
+        ├── settings.py
+        ├── __pycache__
+            └── settings.cpython-312.pyc
+    ├── titanic_filtered.csv
+    ├── titanic_processed.csv
+└── Data
+    ├── titanic
+        └── titanic.csv
+└── file_structure.txt
+└── Pandas
+    ├── main.py
+    ├── settings
+        ├── agegroup_distribution.png
+        ├── age_distribution_detailed.png
+        ├── data_operations.py
+        ├── edited_with_agegroup.csv
+        ├── modified_table.csv
+        ├── redacted.py
+        ├── settings.py
+        ├── sorted_by_age.csv
+        ├── table_without_Cabin.csv
+        ├── table_with_renamed_Survived_to_SurvivalStatus.csv
+        ├── __pycache__
+            └── data_operations.cpython-312.pyc
+            └── redacted.cpython-312.pyc
+            └── settings.cpython-312.pyc
+    ├── titanic.db
+└── script.py
+└── Seaborn
+    └── main.py
+    └── settings
+        └── data_loader.py
+        └── data_operations.py
+        └── data_summary.py
+        └── data_visualization.py
+        └── titanic_data.json
+        └── __pycache__
+            └── data_loader.cpython-312.pyc
+            └── data_operations.cpython-312.pyc
+            └── data_summary.cpython-312.pyc
+            └── data_visualization.cpython-312.pyc
